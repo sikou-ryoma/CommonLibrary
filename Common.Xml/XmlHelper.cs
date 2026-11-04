@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace Common.Xml
+namespace Common.Conf
 {
     public class XmlHelper
     {
